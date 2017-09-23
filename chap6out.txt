@@ -1,0 +1,67 @@
+Allina Khan
+Program 6 Calculator 
+
+The average of -1 and -12 is -6
+
+The average of -15 and 40 is 12
+
+The average of 20 and -16 is 2
+
+The average of 25 and 100 is 62
+
+-20 is the maximum of -20 and -42
+
+18 is the maximum of -18 and 18
+
+20 is the maximum of 20 and -321
+
+321 is the maximum of 321 and 82
+
+The two numbers 12, 12 are equal.
+
+-55 is the minimum of -44 and -55
+
+-66 is the minimum of -66 and 77
+
+-99 is the minimum of 88 and -99
+
+111 is the minimum of 111 and 121
+
+The two numbers 15, 15 are equal.
+
+The square of -121 is 14641
+
+The square of 12 is 144
+
+The sum of -13 + -23 is -36
+
+The sum of -33 + 44 is 11
+
+The sum of 55 + -66 is -11
+
+The sum of 77 + 83 is 160
+
+The subtraction of -10 - -21 = 11
+
+The subtraction of -52 - 91 = -143
+
+The subtraction of 123 - -133 = 256
+
+The subtraction of 2 - 3 = -1
+
+The multiplication of -1 * -2 = 2
+
+The multiplication of -3 * 4 = -12
+
+The multiplication of 5 * -6 = -30
+
+The multiplication of 8 * 9 = 72
+
+The division of -6 / -3 = 2
+
+The division of -12 / 3 = -4
+
+The division of 25 / -5 = -5
+
+The division of 32 / 8 = 4
+
